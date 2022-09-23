@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Lab\Test\Test\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
